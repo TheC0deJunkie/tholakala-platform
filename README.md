@@ -3,9 +3,6 @@
 A missing-persons and lost-property platform for large gatherings. Built for the annual pilgrimage
 of iBandla lamaNazaretha (the Nazareth Baptist Church) at Ebuhleni, where tens of thousands of
 people arrive over a few days and, inevitably, some of them get separated.
-
-[tholakala.app](https://tholakala.app)
-
 ![screenshot](docs/screenshot.jpg)
 
 ## The problem, stated properly
